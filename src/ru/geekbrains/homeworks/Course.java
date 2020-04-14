@@ -8,6 +8,7 @@ public class Course {
     }
 
 
+
     void doIt(Team team){
         Ucastniki[] ucastnikis = team.getUcastnikis();
         if(ucastnikis.length == 0){

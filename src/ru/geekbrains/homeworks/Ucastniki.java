@@ -1,6 +1,7 @@
 package ru.geekbrains.homeworks;
 
 
+
 public class Ucastniki implements Deistvia {
     private String type;
     private String name;

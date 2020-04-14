@@ -1,5 +1,7 @@
 package ru.geekbrains.homeworks;
 
+
+
 public class Human extends Ucastniki {
 
     public Human(String name) {
