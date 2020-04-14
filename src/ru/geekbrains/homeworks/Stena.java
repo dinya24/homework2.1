@@ -6,7 +6,6 @@ public class Stena extends Prepyatstvia {
     public Stena(int visota) {
         this.visota = visota;
     }
-
     @Override
     String doIt(Deistvia deistvia) {
         return deistvia.jump(visota);

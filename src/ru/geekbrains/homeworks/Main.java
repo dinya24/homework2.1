@@ -7,6 +7,8 @@ package ru.geekbrains.homeworks;
 
 public class Main {
 
+
+
     public static void main(String[] args) {
         Course c = new Course(new Dorojka(80),new Stena(20));
         Team team = new Team("Команда Б",new Cat("Барсик"),new Human("Валера"),new Robot("R2"));
